@@ -1,2 +1,1 @@
-# CS205
-Course: CS205 - Computational Social Media (2nd year)
+This repository contains all my codes from the CS205 course in the spring semester at Fulbright University of Vietnam (2nd year).
